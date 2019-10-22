@@ -1,0 +1,104 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 1200px) and (max-width: 2000px) {
+     .icons-orang{
+        margin-left: 620px;
+        width : 400px;
+    }
+
+    .icons-gwt{
+        margin-bottom: 250px;
+        width : 250px;
+    }
+}
+
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+
+     .icons-orang{
+        margin-left: 450px;
+        width : 400px;
+    }
+
+    .icons-gwt{
+        margin-bottom: 250px;
+        width : 250px;
+    }
+
+}
+
+
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+    .mainmenu-area #primary-menu > ul > li > a {
+        padding: 30px 12px;
+    }
+    .header-area {
+        padding-top: 80px;
+    }
+    .price-table,
+    .box {
+        padding: 30px 15px;
+    }
+    .price-table.active {
+        padding: 50px 15px;
+    }
+    .single-team {
+        margin-bottom: 30px
+    }
+    .side-icon-boxes {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-wrap: nowrap;
+        flex-wrap: nowrap;
+        -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+        justify-content: space-between;
+    }
+
+    .icons-orang{
+        margin-left: 450px;
+        width : 400px;
+    }
+
+    .icons-gwt{
+        margin-bottom: 0px;
+        width : 0px;
+    }
+}
+
+
+/* Mobile Layout: 320px. */
+
+@media only screen  and (max-width: 768px) {
+
+    .mainmenu-area #primary-menu > ul > li > a {
+        padding: 30px 12px;
+    }
+    .gwt-logo{
+        margin-left: 12px;
+    }
+
+    .mainmenu-area{
+        margin-left: 0px;
+    }
+
+    .icons-orang{
+        margin-left: 0px;
+        width : 250px;
+    }
+
+    .icons-gwt{
+        margin-bottom: 0px;
+        width : 0px;
+    }
+
+}
+
+@media only screen  and (min-width: 480px) and (max-width: 768px) {
+
+}
+
+
+/* Wide Mobile Layout: 480px. */
