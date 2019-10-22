@@ -95,6 +95,28 @@
                                 </div>
                             </div>
 
+                             <div class="item row">
+                                <div class="v-center">
+                                    <div class="col-xs-12 col-md-6">
+                                        <div class="caption-title" data-animation="animated fadeInUp">
+                                            <h2>Kebijakan Ketidakberpihakan</h2>
+                                        </div>
+                                        <div class="caption-desc" data-animation="animated fadeInUp">
+                                            <p> LSUP Global Wahana Tirta tidak berpihak dan bebas dari keterikatan dan faktor lain yang mempengaruhi objektivitasnya, khususnya tidak terlibat dalam desain, kontruksi, pemasaran, pemasangan, jasa atau pasokan usaha pariwisata dalam ruang lingkup audit, penerapan atau pemeliharaan sistem manajemen yang diaudit.</p>
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-6 col-md-3">
+                                        <div class="caption-photo one" data-animation="animated fadeInRight">
+                                            <img src="images/icons-2/kerahasiaan.png" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="col-xs-6 col-md-3">
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <!--
                             <div class="item row">
                                 <div class="v-center">
                                     <div class="col-xs-12 col-md-6">
@@ -193,7 +215,7 @@
                                     <div class="col-xs-6 col-md-3">
                                     </div>
                                 </div>
-                            </div>
+                            </div>-->
                         <!-- Indicators -->
                         <ol class="carousel-indicators caption-indector">
                             <li data-target="#caption_slide" data-slide-to="0" class="active">
@@ -205,11 +227,20 @@
                             <li data-target="#caption_slide" data-slide-to="2">
                                 <strong>Prinsip Sertifikasi </strong> Integritas, Objektif, Kerahasiaan, Cepat Tanggap, Pendekatan berdasarkan bukti
                             </li>
+                            <li data-target="#caption_slide" data-slide-to="3">
+                                <strong>Kebijakan Ketidakberpihakan </strong> 
+                            </li>
                         </ol>
                         <hr>
                         <h3>Infografik</h3>
                         <a href="images/infographic-01.png" class="button white"> Prinsip Sertifikasi </a>
                         <a href="images/infographic-02.png" class="button white"> Sistem Pengelolaan LSUP GWT</a>
+                        <hr>
+                        <h3>File Download</h3>
+                        <a href="formulir/PM 17 - PENGGUNAAN LOGO.pdf" class="button white"> Peraturan Penggunaan Logo </a>
+                        <a href="#" class="button white">Tipe Sistem Management dan Skema Sertifikasi yang Dimiliki oleh LSUP </a>
+                        <a href="#" class="button white">Proses Banding dan Keluhan </a>
+                        <a href="#" class="button white">Komponen Struktur Biaya</a>
                     </div>
                 </div>
             </div>

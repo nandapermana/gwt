@@ -98,6 +98,7 @@
         </div>
         <div class="container">
             <div class="row">
+                <a href="{{asset('formulir/10 PERSYARATAN PROSES  SERTIFIKASI.pdf')}}" class="button gradient btn-lg btn-block">Persyaratan Proses Sertifikasi Hotel <i class="fa fa-download" aria-hidden="true"></i></a>
                 <a href="{{asset('formulir/1. Penilaian Mandiri Usaha Hotel.xlsx')}}" class="button gradient btn-lg btn-block">Penilaian Mandiri Usaha Hotel <i class="fa fa-download" aria-hidden="true"></i></a>
                 <a href="{{asset('formulir/2. Daftar Periksa Pemenuhan Standar BPW.xlsx')}}" class="button gradient btn-lg btn-block">Daftar Periksa Pemenuhan Standar BP <i class="fa fa-download" aria-hidden="true"></i></a>
                 <a href="{{asset('formulir/3. Daftar Periksa Penilaian Standar Hotel.xlsx')}}" class="button gradient btn-lg btn-block">Daftar Periksa Penilaian Standar Hotel <i class="fa fa-download" aria-hidden="true"></i></a>
