@@ -43,7 +43,7 @@
                         <div class="box">
                             <div class="box-icon">
                                 <a href="{{route('go_about')}}"><img src="images/icons/house.png" href="about.html" alt=""></a>
-                                <a href="{{route('go_about')}}">Tentang Kami</a>
+                                <br><a href="{{route('go_about')}}">Tentang Kami</a>
                             </div>
                         </div>
                     </div>
@@ -51,7 +51,7 @@
                         <div class="box">
                             <div class="box-icon">
                                 <a href="{{route('go_organisasi')}}"><img src="images/icons/organisasi.png" alt=""></a>
-                                <a href="{{route('go_organisasi')}}">Struktur Organisasi</a>
+                                <br><a href="{{route('go_organisasi')}}">Struktur Organisasi</a>
                             </div>
                         </div>
                     </div>
@@ -59,7 +59,7 @@
                         <div class="box">
                             <div class="box-icon">
                                 <a href="{{route('go_audit')}}"><img src="images/icons/auditor.png" alt=""></a>
-                                <a href="{{route('go_audit')}}">Auditor</a>
+                                <br><a href="{{route('go_audit')}}">Auditor</a>
                             </div>
                         </div>
                     </div>
@@ -67,7 +67,7 @@
                         <div class="box">
                             <div class="box-icon">
                                 <a href="{{route('go_harga')}}"><img src="images/icons/harga.png" alt=""></a>
-                                <a href="{{route('go_harga')}}">Harga</a>
+                                <br><a href="{{route('go_harga')}}">Harga</a>
                             </div>
                         </div>
                     </div>
@@ -75,7 +75,7 @@
                         <div class="box">
                             <div class="box-icon">
                                 <a href="{{route('go_client')}}"><img src="images/icons/partner.png" alt=""></a>
-                                <a href="{{route('go_client')}}">Client</a>
+                                <br><a href="{{route('go_client')}}">Client</a>
                             </div>
                         </div>
                     </div>
@@ -83,7 +83,7 @@
                         <div class="box">
                             <div class="box-icon">
                                 <a href="{{route('go_contact')}}"><img src="images/icons/kontak.png" alt=""></a>
-                                <a href="{{route('go_contact')}}">Kontak</a>
+                                <br><a href="{{route('go_contact')}}">Kontak</a>
                             </div>
                         </div>
                     </div>

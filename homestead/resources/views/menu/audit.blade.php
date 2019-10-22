@@ -87,6 +87,28 @@
                 </div>
             </div>
         </div>
+        <hr>
+        <div class="row">
+            <div class="col-xs-12 col-sm-6 col-sm-offset-3 text-center">
+                <div class="page-title">
+                    <h2>Download Audit Formulir </h2>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <a href="{{asset('formulir/1. Penilaian Mandiri Usaha Hotel.xlsx')}}" class="button gradient btn-lg btn-block">Penilaian Mandiri Usaha Hotel <i class="fa fa-download" aria-hidden="true"></i></a>
+                <a href="{{asset('formulir/2. Daftar Periksa Pemenuhan Standar BPW.xlsx')}}" class="button gradient btn-lg btn-block">Daftar Periksa Pemenuhan Standar BP <i class="fa fa-download" aria-hidden="true"></i></a>
+                <a href="{{asset('formulir/3. Daftar Periksa Penilaian Standar Hotel.xlsx')}}" class="button gradient btn-lg btn-block">Daftar Periksa Penilaian Standar Hotel <i class="fa fa-download" aria-hidden="true"></i></a>
+                <a href="{{asset('formulir/4. DAFTAR PERIKSA PENILAIAN STANDAR USAHA RESTORAN BINTANG.doc')}}" class="button gradient btn-lg btn-block">Daftar Periksa Penilaian Standar Usaha Restoran Bintang <i class="fa fa-download" aria-hidden="true"></i></a>
+                <a href="{{asset('formulir/5. PETUNJUK TEKNIS- Restoran - Sertifikasi 1.doc')}}" class="button gradient btn-lg btn-block">PETUNJUK TEKNIS- Restoran - Sertifikasi 1 <i class="fa fa-download" aria-hidden="true"></i></a>
+                <a href="{{asset('formulir/6. PETUNJUK TEKNIS- Restoran - Sertifikasi 2.doc')}}" class="button gradient btn-lg btn-block">PETUNJUK TEKNIS- Restoran - Sertifikasi 2 <i class="fa fa-download" aria-hidden="true"></i></a>
+                <a href="{{asset('formulir/7. DAFTAR PERIKSA PENILAIAN STANDAR USAHA ANGKUTAN JALAN WISATA.doc')}}" class="button gradient btn-lg btn-block">Daftar Periksa Penilaian standar usaha angkutan jalan wisata <i class="fa fa-download" aria-hidden="true"></i></a>
+                <a href="{{asset('8. Daftar Periksa Penilaian Standar Usaha Biro Perjalanan Wisata.xlsx')}}" class="button gradient btn-lg btn-block">Daftar Periksa Penilaian Standar Usaha Biro Perjalanan Wisata <i class="fa fa-download" aria-hidden="true"></i></a>
+                <a href="{{asset('formulir/9. PENERAPAN STANDAR KAWASAN PARIWISATA.doc')}}" class="button gradient btn-lg btn-block">Penerapan Standar Kawasan Pariwisata <i class="fa fa-download" aria-hidden="true"></i></a>
+            </div>
+        </div>
     </section>
     <div style="background: #f2fefe">
         <center><font size="1px"> Copyright(c)2019 Global Wahana Tira</font></center>
